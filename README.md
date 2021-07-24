@@ -1,1 +1,2 @@
-# C47_C48_flappybird
+# p5.play-boilerplate
+Boiler plate for p5.play
